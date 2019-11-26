@@ -32,5 +32,5 @@ List of papers to read or already read
 
 #### Clustering
 
-- [x] Learning to Cluster Faces on an Affinity Graph, CVPR 2019 [pdf](https://arxiv.org/pdf/1904.02749.pdf) [arxiv](https://arxiv.org/abs/1904.02749) [review](https://github.com/priyanka-chaudhary/research-papers/blob/master/Learning%20to%20Cluster%20Faces%20on%20an%20Affinity%20Graph.md)
+- [x] Learning to Cluster Faces on an Affinity Graph, CVPR 2019 [pdf](https://arxiv.org/pdf/1904.02749.pdf) [arxiv](https://arxiv.org/abs/1904.02749) [summary](https://github.com/priyanka-chaudhary/research-papers/blob/master/Learning%20to%20Cluster%20Faces%20on%20an%20Affinity%20Graph.md)
 - [x] Deep Clustering for Unsupervised Learning of Visual Features, ECCV 2019 [pdf](https://arxiv.org/pdf/1807.05520.pdf) [arxiv](https://arxiv.org/abs/1807.05520)
