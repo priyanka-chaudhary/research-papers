@@ -6,7 +6,7 @@ List of papers to read or already read
 ******************************************
 #### General
 
-- [ ] 
+- [ ] Kervolutional Neural Networks [pdf](https://arxiv.org/pdf/1904.03955.pdf) [arxiv](https://arxiv.org/abs/1904.03955)
 
 #### Flood
 
@@ -22,7 +22,7 @@ List of papers to read or already read
 
 #### General
 
-- [ ] 
+- [x] 
 
 #### Flood
 
