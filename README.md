@@ -29,6 +29,8 @@ List of papers to read or already read
 #### General
 
 - [x] Exploring Randomly Wired Neural Networks for Image Recognition, ICCV 2019 [pdf](https://arxiv.org/pdf/1904.01569.pdf) [arxiv](https://arxiv.org/abs/1904.01569)
+- [x] Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?, CVPR 2018 [pdf](https://arxiv.org/pdf/1711.09577.pdf) [arxiv](https://arxiv.org/abs/1711.09577)
+- [x] Learning Spatio-Temporal Features with 3D Residual Networks for Action Recognition, ICCV 2017 [pdf](https://arxiv.org/pdf/1708.07632.pdf) [arxiv](https://arxiv.org/abs/1708.07632)
 
 
 #### Flood
