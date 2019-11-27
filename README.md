@@ -13,9 +13,14 @@ List of papers to read or already read
 
 - [ ] 
 
+#### Learning to Rank
+
+- [ ] 
+
 #### Clustering
 
 - [ ] 
+
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ### READ
@@ -27,6 +32,10 @@ List of papers to read or already read
 
 
 #### Flood
+
+- [ ] 
+
+#### Learning to Rank
 
 - [ ] 
 
