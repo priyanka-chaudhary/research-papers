@@ -46,6 +46,9 @@ List of papers to read or already read
 
 - [x] Who's Better? Who's Best? Pairwise Deep Ranking for Skill Determination, CVPR 2018 [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Doughty_Whos_Better_Whos_CVPR_2018_paper.pdf) [arxiv](https://arxiv.org/abs/1703.09913)
 
+- [x] Deep Cost-Sensitive and Order-Preserving Feature Learning for Cross-Population Age Estimation, CVPR 2018 [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Deep_Cost-Sensitive_and_CVPR_2018_paper.pdf) [arxiv](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Deep_Cost-Sensitive_and_CVPR_2018_paper.html)
+
+
 
 
 #### Clustering
