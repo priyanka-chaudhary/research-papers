@@ -42,7 +42,11 @@ List of papers to read or already read
 
 #### Learning to Rank
 
-- [ ] 
+- [x] Using Ranking-CNN for Age Estimation, CVPR 2017 [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Using_Ranking-CNN_for_CVPR_2017_paper.pdf)
+
+- [x] Who's Better? Who's Best? Pairwise Deep Ranking for Skill Determination, CVPR 2018 [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Doughty_Whos_Better_Whos_CVPR_2018_paper.pdf) [arxiv](https://arxiv.org/abs/1703.09913)
+
+
 
 #### Clustering
 
