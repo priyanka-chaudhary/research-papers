@@ -12,7 +12,6 @@ List of papers to read or already read
 #### Flood
 
 - [ ] MC-LSTM: Mass-conserving LSTM, Not accepted, ICLR 2021. [pdf](https://openreview.net/forum?id=Rld-9OxQ6HU) [arxiv](https://arxiv.org/pdf/2101.05186.pdf)
-- [ ] 
 
 #### Physics Informed
 
@@ -20,12 +19,10 @@ List of papers to read or already read
 - [ ] Combining Physics and Machine Learning for Network Flow Estimation, ICLR 2021. [pdf](https://openreview.net/forum?id=l0V53bErniB)
 - [ ] Physics-aware, probabilistic model order reduction with guaranteed stability, ICLR 2021. [pdf](https://openreview.net/forum?id=vyY0jnWG-tK)
 - [ ] Augmenting Physical Models with Deep Networks for Complex Dynamics Forecasting, ICLR 2021. [pdf](https://openreview.net/forum?id=kmG8vRXTFv)
-- [ ] 
 
 #### Clustering
 
 - [ ] MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering, ICLR 2021. [pdf](https://openreview.net/forum?id=gV3wdEOGy_V)
-- [ ] 
 
 #### Bayesian Deep Learning
 
@@ -34,7 +31,6 @@ List of papers to read or already read
 - [ ] Estimating and Evaluating Regression Predictive Uncertainty in Deep Object Detectors, ICLR 2021. [pdf](https://openreview.net/forum?id=YLewtnvKgR7)
 - [ ] Hands-on Bayesian Neural Networks - a Tutorial for Deep Learning Users. [pdf](https://arxiv.org/pdf/2007.06823.pdf)
 - [ ] Global canopy height estimation with GEDI LIDAR waveforms and Bayesian deep learning. [pdf](https://arxiv.org/abs/2103.03975)
-- [ ] 
 
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
