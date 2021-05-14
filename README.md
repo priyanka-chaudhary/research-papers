@@ -30,7 +30,6 @@ List of papers to read or already read
 - [ ] Probabilistic Numeric Convolutional Neural Networks, ICLR 2021. [pdf](https://openreview.net/forum?id=T1XmO8ScKim)
 - [ ] Estimating and Evaluating Regression Predictive Uncertainty in Deep Object Detectors, ICLR 2021. [pdf](https://openreview.net/forum?id=YLewtnvKgR7)
 - [ ] Hands-on Bayesian Neural Networks - a Tutorial for Deep Learning Users. [pdf](https://arxiv.org/pdf/2007.06823.pdf)
-- [ ] Global canopy height estimation with GEDI LIDAR waveforms and Bayesian deep learning. [pdf](https://arxiv.org/abs/2103.03975)
 
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -67,3 +66,8 @@ List of papers to read or already read
 - [x] Learning to Cluster Faces on an Affinity Graph, CVPR 2019 [pdf](https://arxiv.org/pdf/1904.02749.pdf) [arxiv](https://arxiv.org/abs/1904.02749) [summary](https://github.com/priyanka-chaudhary/research-papers/blob/master/Learning%20to%20Cluster%20Faces%20on%20an%20Affinity%20Graph.md)
 
 - [x] Deep Clustering for Unsupervised Learning of Visual Features, ECCV 2019 [pdf](https://arxiv.org/pdf/1807.05520.pdf) [arxiv](https://arxiv.org/abs/1807.05520)
+
+
+#### Bayesian Deep Learning
+
+- [x] Global canopy height estimation with GEDI LIDAR waveforms and Bayesian deep learning. [pdf](https://arxiv.org/abs/2103.03975)
