@@ -71,4 +71,4 @@ List of papers to read or already read
 #### Bayesian Deep Learning
 
 - [x] Global canopy height estimation with GEDI LIDAR waveforms and Bayesian deep learning. [pdf](https://arxiv.org/abs/2103.03975)
-- [ ] What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?. [pdf](https://papers.nips.cc/paper/2017/hash/2650d6089a6d640c5e85b2b88265dc2b-Abstract.html)
+- [x] What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?. [pdf](https://papers.nips.cc/paper/2017/hash/2650d6089a6d640c5e85b2b88265dc2b-Abstract.html)
